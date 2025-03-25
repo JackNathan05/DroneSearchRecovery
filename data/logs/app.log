@@ -1,0 +1,790 @@
+2025-03-24 15:19:23,767 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 15:19:23,940 - views.main_window - INFO - Main window initialized
+2025-03-24 15:19:24,067 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 15:19:25,194 - views.main_window - INFO - Creating new mission
+2025-03-24 15:19:26,722 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 15:19:27,400 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 15:19:27,883 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 15:19:54,077 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 15:19:55,643 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 15:19:55,991 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 15:19:59,982 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 15:20:00,368 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 15:20:01,177 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 15:20:01,455 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 15:20:06,003 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 15:20:06,439 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 15:20:16,919 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 15:20:16,993 - views.main_window - INFO - Main window initialized
+2025-03-24 15:20:17,093 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 15:20:18,086 - views.main_window - INFO - Creating new mission
+2025-03-24 15:20:32,610 - views.main_window - INFO - Mission created: Mission 1
+2025-03-24 15:20:34,015 - views.main_window - INFO - Opening mission: Mission 1
+2025-03-24 15:20:34,734 - views.main_window - INFO - Opening mission: Mission 1
+2025-03-24 15:20:35,293 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 15:21:16,806 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 15:21:16,881 - views.main_window - INFO - Main window initialized
+2025-03-24 15:21:16,983 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 15:37:52,848 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 15:37:52,974 - views.main_window - INFO - Main window initialized
+2025-03-24 15:37:53,085 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 15:37:54,320 - views.main_window - INFO - Creating new mission
+2025-03-24 15:37:57,644 - views.main_window - INFO - Import mission button clicked
+2025-03-24 15:41:40,283 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 15:41:40,366 - views.main_window - INFO - Main window initialized
+2025-03-24 15:41:40,478 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 15:41:41,632 - views.main_window - INFO - Creating new mission
+2025-03-24 15:41:46,217 - views.main_window - INFO - Mission created: sfgb
+2025-03-24 15:41:47,606 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 15:41:48,225 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 15:41:48,663 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 15:41:49,110 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 15:41:49,406 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 15:41:49,730 - views.main_window - INFO - Opening mission: sfgb
+2025-03-24 15:41:50,017 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 15:41:50,380 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 15:41:51,240 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 15:41:51,578 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 15:41:52,043 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 15:41:52,347 - views.main_window - INFO - Opening mission: sfgb
+2025-03-24 15:43:26,371 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 15:43:26,466 - views.main_window - INFO - Main window initialized
+2025-03-24 15:43:26,580 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 15:43:27,438 - views.main_window - INFO - Creating new mission
+2025-03-24 15:43:29,219 - views.main_window - INFO - Import mission button clicked
+2025-03-24 15:43:31,623 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 15:45:03,814 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 15:45:03,889 - views.main_window - INFO - Main window initialized
+2025-03-24 15:45:03,993 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 15:45:06,545 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 15:45:07,048 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 15:45:07,424 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 15:45:59,324 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 15:45:59,415 - views.main_window - INFO - Main window initialized
+2025-03-24 15:45:59,517 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 15:53:10,417 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 15:53:26,249 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:00:03,720 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:13:44,613 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:13:44,741 - views.main_window - INFO - Main window initialized
+2025-03-24 16:13:44,844 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:13:48,443 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:13:49,446 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:13:49,976 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:13:50,389 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:13:50,805 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:13:51,141 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:13:51,640 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:13:52,068 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:13:52,811 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:13:53,186 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:13:53,507 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:13:53,935 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:13:54,234 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:13:54,499 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:14:35,216 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:14:35,296 - views.main_window - INFO - Main window initialized
+2025-03-24 16:14:35,398 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:19:21,116 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:19:21,216 - views.main_window - INFO - Main window initialized
+2025-03-24 16:19:21,318 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:19:43,340 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:19:43,422 - views.main_window - INFO - Main window initialized
+2025-03-24 16:19:43,539 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:19:50,911 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:19:51,454 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:19:51,860 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:19:52,293 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:19:52,646 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:19:53,167 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:19:54,029 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:19:58,239 - views.main_window - INFO - User logged out: None
+2025-03-24 16:21:25,888 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:21:25,992 - views.main_window - INFO - Main window initialized
+2025-03-24 16:21:26,095 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:21:29,181 - views.main_window - INFO - User logged out: None
+2025-03-24 16:21:34,132 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:21:35,651 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:21:38,217 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:21:38,862 - views.main_window - INFO - Creating new mission
+2025-03-24 16:21:39,763 - views.main_window - INFO - Creating new mission
+2025-03-24 16:21:40,151 - views.main_window - INFO - Creating new mission
+2025-03-24 16:21:40,337 - views.main_window - INFO - Creating new mission
+2025-03-24 16:21:41,168 - views.main_window - INFO - Creating new mission
+2025-03-24 16:21:41,369 - views.main_window - INFO - Creating new mission
+2025-03-24 16:21:41,571 - views.main_window - INFO - Creating new mission
+2025-03-24 16:21:43,800 - views.main_window - INFO - Creating new mission
+2025-03-24 16:21:44,219 - views.main_window - INFO - Creating new mission
+2025-03-24 16:21:44,413 - views.main_window - INFO - Creating new mission
+2025-03-24 16:21:44,595 - views.main_window - INFO - Creating new mission
+2025-03-24 16:21:44,783 - views.main_window - INFO - Creating new mission
+2025-03-24 16:22:50,492 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:22:50,595 - views.main_window - INFO - Main window initialized
+2025-03-24 16:22:50,696 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:22:56,008 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:22:57,039 - views.main_window - INFO - Creating new mission
+2025-03-24 16:22:57,830 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:24:19,857 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:24:19,966 - views.main_window - INFO - Main window initialized
+2025-03-24 16:24:20,074 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:24:25,156 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:24:28,682 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:24:29,547 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:24:30,005 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:24:30,430 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:24:30,782 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:24:31,084 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:24:32,081 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:24:32,341 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:24:32,643 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:24:33,417 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:24:33,750 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:24:34,482 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:24:39,056 - views.main_window - INFO - User logged out: Jack
+2025-03-24 16:24:49,067 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:25:53,017 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:25:53,095 - views.main_window - INFO - Main window initialized
+2025-03-24 16:25:53,200 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:26:00,209 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:30:21,528 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:30:21,625 - views.main_window - INFO - Main window initialized
+2025-03-24 16:30:21,737 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:30:27,112 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:30:29,489 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:30:35,824 - views.main_window - INFO - User logged out: Jack
+2025-03-24 16:30:40,430 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:30:47,652 - views.main_window - INFO - Creating new mission
+2025-03-24 16:30:49,388 - views.main_window - INFO - Creating new mission
+2025-03-24 16:30:49,826 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:30:55,723 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:30:55,800 - views.main_window - INFO - Main window initialized
+2025-03-24 16:30:55,900 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:31:00,385 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:31:01,806 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:31:02,333 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:31:02,681 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:31:03,236 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:31:03,570 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:31:03,892 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:31:04,280 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:31:04,667 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:31:05,059 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:31:05,545 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:31:05,814 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:31:06,136 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:31:06,576 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:31:06,928 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:31:07,195 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:31:10,913 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:31:11,528 - views.main_window - INFO - Creating new mission
+2025-03-24 16:31:12,028 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:31:13,654 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:31:14,200 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:31:16,085 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:31:16,506 - views.main_window - INFO - Creating new mission
+2025-03-24 16:31:16,773 - views.main_window - INFO - Creating new mission
+2025-03-24 16:31:16,954 - views.main_window - INFO - Creating new mission
+2025-03-24 16:31:17,128 - views.main_window - INFO - Creating new mission
+2025-03-24 16:31:17,304 - views.main_window - INFO - Creating new mission
+2025-03-24 16:31:17,488 - views.main_window - INFO - Creating new mission
+2025-03-24 16:31:17,918 - views.main_window - INFO - Creating new mission
+2025-03-24 16:31:18,103 - views.main_window - INFO - Creating new mission
+2025-03-24 16:31:18,147 - views.main_window - INFO - Creating new mission
+2025-03-24 16:31:18,295 - views.main_window - INFO - Creating new mission
+2025-03-24 16:33:25,716 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:33:25,816 - views.main_window - INFO - Main window initialized
+2025-03-24 16:33:25,932 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:33:29,838 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:33:30,807 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:33:31,351 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:33:31,796 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:33:32,238 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:33:33,149 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:33:33,573 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:33:34,049 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:33:41,188 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:33:43,306 - views.main_window - INFO - Creating new mission
+2025-03-24 16:33:43,656 - views.main_window - INFO - Creating new mission
+2025-03-24 16:33:44,036 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:33:46,284 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:33:50,047 - views.main_window - INFO - Creating new mission
+2025-03-24 16:33:50,585 - views.main_window - INFO - Creating new mission
+2025-03-24 16:33:50,761 - views.main_window - INFO - Creating new mission
+2025-03-24 16:33:50,943 - views.main_window - INFO - Creating new mission
+2025-03-24 16:34:54,167 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:34:54,754 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:34:55,076 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:34:55,346 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:34:55,687 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:34:55,963 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:34:56,257 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:34:57,024 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:34:57,229 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:34:57,670 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:34:58,096 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:34:58,262 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:34:58,426 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:34:58,790 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:34:59,059 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:34:59,303 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:35:00,083 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:35:00,454 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:35:01,000 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:35:02,685 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:35:03,398 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:35:04,190 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:35:04,559 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:35:04,901 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:35:05,324 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:35:05,658 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:35:07,705 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:35:08,105 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:35:08,511 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:35:08,898 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:35:09,326 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:35:11,362 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:35:12,391 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:35:12,861 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:35:13,413 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:35:13,802 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:35:14,683 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:35:17,970 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:35:18,462 - views.main_window - INFO - Creating new mission
+2025-03-24 16:35:45,580 - views.main_window - INFO - Creating new mission
+2025-03-24 16:35:46,380 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:35:46,756 - views.main_window - INFO - Opening mission: Imported Mission
+2025-03-24 16:35:47,136 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:35:47,427 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:35:47,989 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:36:09,562 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:36:09,644 - views.main_window - INFO - Main window initialized
+2025-03-24 16:36:09,764 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:36:14,305 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:36:15,064 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:36:15,671 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:36:16,085 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:37:27,100 - views.main_window - INFO - User logged out: Jack
+2025-03-24 16:37:32,978 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:37:33,558 - views.main_window - INFO - Creating new mission
+2025-03-24 16:37:33,961 - views.main_window - INFO - Creating new mission
+2025-03-24 16:37:34,122 - views.main_window - INFO - Creating new mission
+2025-03-24 16:37:34,294 - views.main_window - INFO - Creating new mission
+2025-03-24 16:37:37,885 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:41:18,870 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:41:18,969 - views.main_window - INFO - Main window initialized
+2025-03-24 16:41:19,067 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:41:22,814 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:41:29,033 - views.main_window - INFO - Creating new mission
+2025-03-24 16:41:29,817 - views.main_window - INFO - Creating new mission
+2025-03-24 16:41:30,188 - views.main_window - INFO - Creating new mission
+2025-03-24 16:41:30,375 - views.main_window - INFO - Creating new mission
+2025-03-24 16:41:30,646 - views.main_window - INFO - Creating new mission
+2025-03-24 16:41:30,828 - views.main_window - INFO - Creating new mission
+2025-03-24 16:41:31,008 - views.main_window - INFO - Creating new mission
+2025-03-24 16:41:31,186 - views.main_window - INFO - Creating new mission
+2025-03-24 16:41:32,507 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:41:32,885 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:41:33,191 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:41:36,244 - views.main_window - INFO - User logged out: Jack
+2025-03-24 16:41:40,693 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:41:41,826 - views.main_window - INFO - Creating new mission
+2025-03-24 16:41:42,174 - views.main_window - INFO - Creating new mission
+2025-03-24 16:41:42,324 - views.main_window - INFO - Creating new mission
+2025-03-24 16:41:42,493 - views.main_window - INFO - Creating new mission
+2025-03-24 16:42:39,970 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:42:40,057 - views.main_window - INFO - Main window initialized
+2025-03-24 16:42:40,158 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:42:44,655 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:42:45,547 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:42:46,099 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:42:46,421 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 16:42:46,828 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 16:42:47,071 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:43:24,053 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:43:24,133 - views.main_window - INFO - Main window initialized
+2025-03-24 16:43:24,235 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:43:29,566 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:43:30,819 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 16:43:58,801 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:43:59,542 - views.main_window - INFO - Creating new mission
+2025-03-24 16:43:59,946 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:44:03,513 - views.main_window - INFO - User logged out: Jack
+2025-03-24 16:44:07,814 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:44:08,368 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:44:13,521 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:44:16,122 - views.main_window - INFO - Creating new mission
+2025-03-24 16:44:16,704 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:45:04,026 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:45:04,775 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:45:09,693 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:45:10,389 - views.main_window - INFO - Import mission button clicked
+2025-03-24 16:45:42,012 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 16:45:42,094 - views.main_window - INFO - Main window initialized
+2025-03-24 16:45:42,197 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 16:45:45,627 - views.main_window - INFO - User logged in: Jack
+2025-03-24 16:45:46,128 - views.main_window - INFO - Creating new mission
+2025-03-24 16:45:46,564 - views.main_window - INFO - Import mission button clicked
+2025-03-24 17:00:12,256 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 17:00:12,408 - views.main_window - INFO - Main window initialized
+2025-03-24 17:00:12,530 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 17:00:16,654 - views.main_window - INFO - User logged in: Jack
+2025-03-24 17:00:17,406 - views.main_window - INFO - Creating new mission
+2025-03-24 17:00:19,370 - views.main_window - INFO - Import mission button clicked
+2025-03-24 17:01:40,347 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 17:01:40,424 - views.main_window - INFO - Main window initialized
+2025-03-24 17:01:40,528 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 17:01:45,382 - views.main_window - INFO - User logged in: Jack
+2025-03-24 17:01:46,453 - views.main_window - INFO - Creating new mission
+2025-03-24 17:01:48,384 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 17:02:25,585 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 17:02:25,664 - views.main_window - INFO - Main window initialized
+2025-03-24 17:02:25,768 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 17:02:30,599 - views.main_window - INFO - User logged in: Jack
+2025-03-24 17:02:31,616 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 17:02:31,987 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 17:02:32,275 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 17:02:32,746 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 17:02:36,178 - views.main_window - INFO - User logged out: Jack
+2025-03-24 17:02:42,994 - views.main_window - INFO - User logged in: Jack
+2025-03-24 17:02:43,671 - views.main_window - INFO - Creating new mission
+2025-03-24 17:02:45,452 - views.main_window - INFO - Import mission button clicked
+2025-03-24 17:06:39,264 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 17:06:39,361 - views.main_window - INFO - Main window initialized
+2025-03-24 17:06:39,462 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 17:06:46,025 - views.main_window - INFO - User logged in: Jack
+2025-03-24 17:06:47,014 - views.main_window - INFO - Creating new mission
+2025-03-24 17:06:48,489 - views.main_window - INFO - Import mission button clicked
+2025-03-24 17:06:49,328 - views.main_window - INFO - Navigating to home screen
+2025-03-24 17:06:50,066 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 17:06:50,555 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 17:06:50,917 - views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 17:06:51,643 - views.main_window - INFO - Navigating to home screen
+2025-03-24 17:06:53,805 - views.main_window - INFO - User logged out: Jack
+2025-03-24 17:06:57,780 - views.main_window - INFO - User logged in: Jack
+2025-03-24 17:06:59,743 - views.main_window - INFO - Creating new mission
+2025-03-24 17:07:01,158 - views.main_window - INFO - Import mission button clicked
+2025-03-24 17:07:02,219 - views.main_window - INFO - Navigating to home screen
+2025-03-24 17:07:02,894 - views.main_window - INFO - Creating new mission
+2025-03-24 17:07:09,594 - views.main_window - INFO - Mission created: 5
+2025-03-24 17:07:14,090 - views.main_window - INFO - Opening mission: Imported Mission 20250324_170701
+2025-03-24 17:08:45,398 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 17:08:45,488 - views.main_window - INFO - Main window initialized
+2025-03-24 17:08:45,600 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 17:08:50,046 - views.main_window - INFO - User logged in: Jack
+2025-03-24 17:08:52,950 - views.main_window - INFO - Deleted mission: Ridge Survey
+2025-03-24 17:08:56,395 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 17:09:07,244 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 17:09:07,325 - views.main_window - INFO - Main window initialized
+2025-03-24 17:09:07,433 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 17:09:12,406 - views.main_window - INFO - User logged in: Jack
+2025-03-24 17:53:46,474 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 17:53:46,616 - views.main_window - INFO - Main window initialized
+2025-03-24 17:53:46,739 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 17:53:50,894 - views.main_window - INFO - User logged in: Jack
+2025-03-24 17:53:52,865 - views.main_window - INFO - Creating new mission
+2025-03-24 17:53:54,864 - views.main_window - INFO - Import mission button clicked
+2025-03-24 17:53:55,717 - views.main_window - INFO - Navigating to home screen
+2025-03-24 17:53:57,647 - views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 17:53:58,175 - views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 17:53:59,581 - views.main_window - INFO - Opening mission: Imported Mission 20250324_175354
+2025-03-24 17:54:01,948 - views.main_window - INFO - Navigating to home screen
+2025-03-24 17:54:01,948 - views.main_window - INFO - Deleted mission: Imported Mission 20250324_175354
+2025-03-24 17:54:07,027 - views.main_window - INFO - Renamed mission from 'Forest Scan' to 'Test'
+2025-03-24 18:26:12,931 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:26:12,953 - models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:26:12,972 - models.database - INFO - Database tables created
+2025-03-24 18:26:12,988 - __main__ - INFO - Created default admin user
+2025-03-24 18:26:12,994 - __main__ - INFO - Created test user
+2025-03-24 18:28:27,831 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:28:27,843 - models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:28:27,846 - models.database - INFO - Database tables created
+2025-03-24 18:30:06,507 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:30:06,519 - models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:30:06,521 - models.database - INFO - Database tables created
+2025-03-24 18:40:21,214 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:40:21,679 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:40:21,765 - src.models.database - INFO - Database tables created
+2025-03-24 18:40:21,966 - src.views.main_window - INFO - Main window initialized
+2025-03-24 18:40:22,082 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 18:40:33,907 - repositories.user_repository - WARNING - Authentication failed: User 'admin123' not found
+2025-03-24 18:42:07,325 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:42:07,744 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:42:07,758 - src.models.database - INFO - Database tables created
+2025-03-24 18:42:07,853 - src.views.main_window - INFO - Main window initialized
+2025-03-24 18:42:07,949 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 18:42:44,444 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:42:44,873 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:42:44,887 - src.models.database - INFO - Database tables created
+2025-03-24 18:42:44,988 - src.views.main_window - INFO - Main window initialized
+2025-03-24 18:42:45,098 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 18:42:50,823 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 18:42:56,345 - src.views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 18:42:57,014 - src.views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 18:42:57,534 - src.views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 18:42:59,875 - src.views.main_window - INFO - Deleted mission: Ridge Survey
+2025-03-24 18:43:03,623 - src.views.main_window - INFO - Renamed mission from 'Lake Search' to 'test'
+2025-03-24 18:43:05,114 - src.views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 18:43:06,105 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 18:43:07,292 - src.views.main_window - INFO - Creating new mission
+2025-03-24 18:43:11,932 - src.views.main_window - INFO - Mission created: test5
+2025-03-24 18:43:14,717 - src.views.main_window - INFO - Opening mission: Forest Scan
+2025-03-24 18:43:15,831 - src.views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 18:43:17,863 - src.views.main_window - INFO - User logged out: admin
+2025-03-24 18:43:20,699 - src.views.main_window - INFO - User logged in: 1
+2025-03-24 18:46:43,562 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:46:44,024 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:46:44,040 - src.models.database - INFO - Database tables created
+2025-03-24 18:46:44,150 - src.views.main_window - INFO - Main window initialized
+2025-03-24 18:46:44,259 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 18:46:46,276 - repositories.user_repository - WARNING - Authentication failed: User 'sdfg' not found
+2025-03-24 18:46:55,362 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:46:55,791 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:46:55,804 - src.models.database - INFO - Database tables created
+2025-03-24 18:46:55,898 - src.views.main_window - INFO - Main window initialized
+2025-03-24 18:46:55,999 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 18:47:02,574 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 18:47:03,652 - src.views.main_window - INFO - Creating new mission
+2025-03-24 18:47:05,993 - src.views.main_window - INFO - User logged out: admin
+2025-03-24 18:47:08,144 - src.views.main_window - INFO - User logged in: 1
+2025-03-24 18:47:09,267 - src.views.main_window - INFO - Opening mission: Ridge Survey
+2025-03-24 18:47:09,651 - src.views.main_window - INFO - Opening mission: Lake Search
+2025-03-24 18:47:31,100 - src.views.main_window - INFO - Deleted mission: Ridge Survey
+2025-03-24 18:47:34,360 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:47:34,798 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:47:34,815 - src.models.database - INFO - Database tables created
+2025-03-24 18:47:34,929 - src.views.main_window - INFO - Main window initialized
+2025-03-24 18:47:35,044 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 18:47:41,004 - repositories.user_repository - WARNING - Authentication failed: Invalid password for user 'admin'
+2025-03-24 18:47:45,630 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 18:48:06,157 - src.views.main_window - INFO - Deleted mission: Ridge Survey
+2025-03-24 18:48:08,109 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:48:08,552 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:48:08,571 - src.models.database - INFO - Database tables created
+2025-03-24 18:48:08,676 - src.views.main_window - INFO - Main window initialized
+2025-03-24 18:48:08,783 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 18:48:13,926 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 18:53:18,164 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:53:18,613 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:53:18,629 - src.models.database - INFO - Database tables created
+2025-03-24 18:53:18,738 - src.views.main_window - INFO - Main window initialized
+2025-03-24 18:53:18,853 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 18:54:14,065 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:54:14,500 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:54:14,514 - src.models.database - INFO - Database tables created
+2025-03-24 18:54:14,622 - src.views.main_window - INFO - Main window initialized
+2025-03-24 18:54:14,723 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 18:54:20,134 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 18:54:48,317 - src.views.main_window - INFO - Creating new mission
+2025-03-24 18:54:53,797 - src.views.main_window - INFO - Mission created: hello
+2025-03-24 18:59:36,389 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 18:59:36,842 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 18:59:36,855 - src.models.database - INFO - Database tables created
+2025-03-24 18:59:36,965 - src.views.main_window - INFO - Main window initialized
+2025-03-24 18:59:37,066 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 18:59:43,273 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 18:59:46,577 - src.views.main_window - INFO - Creating new mission
+2025-03-24 18:59:49,758 - src.views.main_window - INFO - Mission created: test
+2025-03-24 21:17:04,831 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:17:05,356 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:17:05,372 - src.models.database - INFO - Database tables created
+2025-03-24 21:17:05,476 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:17:05,591 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:18:04,124 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:18:19,887 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:18:20,409 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:18:20,430 - src.models.database - INFO - Database tables created
+2025-03-24 21:18:20,533 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:18:20,633 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:18:24,305 - src.views.main_window - INFO - User logged in: 1
+2025-03-24 21:18:27,160 - src.views.main_window - INFO - User logged out: 1
+2025-03-24 21:18:32,680 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:18:38,493 - src.views.main_window - INFO - Creating new mission
+2025-03-24 21:18:42,411 - src.views.main_window - INFO - Mission created: test 2
+2025-03-24 21:18:49,942 - src.views.main_window - INFO - Deleted mission: test 2
+2025-03-24 21:25:09,896 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:25:10,402 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:25:10,419 - src.models.database - INFO - Database tables created
+2025-03-24 21:25:10,552 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:25:10,656 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:25:21,591 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:26:02,374 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:26:02,826 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:26:02,843 - src.models.database - INFO - Database tables created
+2025-03-24 21:26:02,950 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:26:03,053 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:26:05,604 - src.views.main_window - INFO - User logged in: 1
+2025-03-24 21:28:13,816 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:28:14,228 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:28:14,242 - src.models.database - INFO - Database tables created
+2025-03-24 21:28:14,354 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:28:14,454 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:28:23,221 - repositories.user_repository - WARNING - Authentication failed: Invalid password for user 'admin'
+2025-03-24 21:28:29,122 - repositories.user_repository - WARNING - Authentication failed: Invalid password for user 'admin'
+2025-03-24 21:28:31,674 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:28:31,678 - src.views.main_window - INFO - Loaded 2 missions from database
+2025-03-24 21:28:39,655 - src.views.main_window - INFO - Opening mission: test
+2025-03-24 21:28:41,070 - src.views.main_window - INFO - Opening mission: test 2
+2025-03-24 21:28:41,889 - src.views.main_window - INFO - Opening mission: test
+2025-03-24 21:28:44,724 - src.views.main_window - INFO - Deleted mission from database: test
+2025-03-24 21:28:44,724 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 21:28:44,725 - src.views.main_window - INFO - Deleted mission from UI: test
+2025-03-24 21:28:56,119 - src.views.main_window - INFO - Renamed mission from 'test 2' to 'hello'
+2025-03-24 21:29:07,068 - src.views.main_window - INFO - Deleted mission from database: test 2
+2025-03-24 21:29:07,068 - src.views.main_window - INFO - Deleted mission from UI: test 2
+2025-03-24 21:31:52,358 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:31:52,825 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:31:52,841 - src.models.database - INFO - Database tables created
+2025-03-24 21:31:52,979 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:31:53,077 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:32:03,367 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:32:03,371 - src.views.main_window - INFO - No missions found for user
+2025-03-24 21:32:22,373 - src.views.main_window - INFO - Import mission button clicked
+2025-03-24 21:32:31,342 - src.views.main_window - INFO - Renamed mission in database from 'Imported Mission 20250324_213222' to 'teast'
+2025-03-24 21:32:31,342 - src.views.main_window - INFO - Renamed mission in UI from 'Imported Mission 20250324_213222' to 'teast'
+2025-03-24 21:32:37,498 - src.views.main_window - WARNING - Could not find mission in database: Imported Mission 20250324_213222
+2025-03-24 21:32:37,499 - src.views.main_window - INFO - Deleted mission from UI: Imported Mission 20250324_213222
+2025-03-24 21:32:40,211 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 21:32:43,154 - src.views.main_window - INFO - Creating new mission
+2025-03-24 21:32:48,736 - src.views.main_window - INFO - Mission created: restart
+2025-03-24 21:32:59,204 - src.views.main_window - INFO - Deleted mission from database: restart
+2025-03-24 21:32:59,205 - src.views.main_window - INFO - Deleted mission from UI: restart
+2025-03-24 21:33:04,738 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 21:33:05,535 - src.views.main_window - INFO - Import mission button clicked
+2025-03-24 21:33:09,500 - src.views.main_window - INFO - Opening mission: Imported Mission 20250324_213305
+2025-03-24 21:33:12,072 - src.views.main_window - INFO - Deleted mission from database: Imported Mission 20250324_213305
+2025-03-24 21:33:12,073 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 21:33:12,073 - src.views.main_window - INFO - Deleted mission from UI: Imported Mission 20250324_213305
+2025-03-24 21:33:24,460 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:33:24,988 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:33:25,005 - src.models.database - INFO - Database tables created
+2025-03-24 21:33:25,106 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:33:25,211 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:33:33,229 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:33:33,233 - src.views.main_window - INFO - Loaded 1 missions from database
+2025-03-24 21:33:35,848 - src.views.main_window - INFO - Deleted mission from database: teast
+2025-03-24 21:33:35,848 - src.views.main_window - INFO - Deleted mission from UI: teast
+2025-03-24 21:33:42,840 - src.views.main_window - INFO - Creating new mission
+2025-03-24 21:33:49,109 - src.views.main_window - INFO - Import mission button clicked
+2025-03-24 21:33:57,892 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:33:58,308 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:33:58,325 - src.models.database - INFO - Database tables created
+2025-03-24 21:33:58,423 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:33:58,527 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:34:03,929 - repositories.user_repository - WARNING - Authentication failed: Invalid password for user 'admin'
+2025-03-24 21:34:09,369 - repositories.user_repository - WARNING - Authentication failed: Invalid password for user 'admin'
+2025-03-24 21:34:14,805 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:34:14,809 - src.views.main_window - INFO - Loaded 1 missions from database
+2025-03-24 21:34:18,252 - src.views.main_window - INFO - Deleted mission from database: Imported Mission 20250324_213349
+2025-03-24 21:34:18,253 - src.views.main_window - INFO - Deleted mission from UI: Imported Mission 20250324_213349
+2025-03-24 21:47:25,166 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:47:25,598 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:47:25,611 - src.models.database - INFO - Database tables created
+2025-03-24 21:47:25,627 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-24 21:47:25,634 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:47:25,634 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250324_214725.db
+2025-03-24 21:47:25,634 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250324_214725.db
+2025-03-24 21:47:25,720 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:47:25,817 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:47:32,248 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:47:32,255 - src.views.main_window - INFO - No missions found for user
+2025-03-24 21:47:34,653 - src.views.main_window - INFO - Import mission button clicked
+2025-03-24 21:47:41,128 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:47:41,558 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:47:41,574 - src.models.database - INFO - Database tables created
+2025-03-24 21:47:41,591 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-24 21:47:41,607 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:47:41,608 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250324_214741.db
+2025-03-24 21:47:41,608 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250324_214741.db
+2025-03-24 21:47:41,681 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:47:41,790 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:47:47,400 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:47:47,408 - src.views.main_window - INFO - Loaded 1 missions from database
+2025-03-24 21:47:47,966 - src.views.main_window - INFO - Creating new mission
+2025-03-24 21:47:50,700 - src.views.main_window - INFO - Opening mission: Imported Mission 20250324_214734
+2025-03-24 21:47:55,908 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:47:56,323 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:47:56,338 - src.models.database - INFO - Database tables created
+2025-03-24 21:47:56,353 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-24 21:47:56,365 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:47:56,365 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250324_214756.db
+2025-03-24 21:47:56,366 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250324_214756.db
+2025-03-24 21:47:56,434 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:47:56,529 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:48:01,776 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:48:01,783 - src.views.main_window - INFO - Loaded 1 missions from database
+2025-03-24 21:48:03,060 - src.views.main_window - INFO - Creating new mission
+2025-03-24 21:48:08,130 - src.views.main_window - INFO - Mission created: test
+2025-03-24 21:54:48,997 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:54:49,463 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:54:49,479 - src.models.database - INFO - Database tables created
+2025-03-24 21:54:49,498 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-24 21:54:49,506 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:54:49,506 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250324_215449.db
+2025-03-24 21:54:49,506 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250324_215449.db
+2025-03-24 21:54:49,611 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:54:49,715 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:54:56,619 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:54:56,628 - src.views.main_window - INFO - Loaded 2 missions from database
+2025-03-24 21:54:58,001 - src.views.main_window - INFO - Opening mission: Imported Mission 20250324_214734
+2025-03-24 21:54:58,002 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:54:59,461 - src.views.main_window - INFO - Opening mission: test
+2025-03-24 21:54:59,462 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:55:00,969 - src.views.main_window - INFO - Opening mission: Imported Mission 20250324_214734
+2025-03-24 21:55:00,970 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:55:03,015 - src.views.main_window - INFO - Deleted mission from database: Imported Mission 20250324_214734
+2025-03-24 21:55:03,015 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 21:55:03,017 - src.views.main_window - INFO - Deleted mission from UI: Imported Mission 20250324_214734
+2025-03-24 21:55:03,736 - src.views.main_window - INFO - Opening mission: test
+2025-03-24 21:55:03,736 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:55:06,242 - src.views.main_window - INFO - Deleted mission from database: test
+2025-03-24 21:55:06,243 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 21:55:06,243 - src.views.main_window - INFO - Deleted mission from UI: test
+2025-03-24 21:55:07,113 - src.views.main_window - INFO - Creating new mission
+2025-03-24 21:55:11,151 - src.views.main_window - INFO - Mission created: tester
+2025-03-24 21:55:11,160 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:55:13,099 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 21:55:14,116 - src.views.main_window - INFO - Import mission button clicked
+2025-03-24 21:55:14,133 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:55:21,820 - src.views.main_window - INFO - User logged out: admin
+2025-03-24 21:55:24,885 - src.views.main_window - INFO - User logged in: 1
+2025-03-24 21:55:24,888 - src.views.main_window - INFO - No missions found for user
+2025-03-24 21:55:31,282 - src.views.main_window - INFO - Creating new mission
+2025-03-24 21:55:33,983 - src.views.main_window - INFO - Mission created: azdfcvb
+2025-03-24 21:55:33,990 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:55:36,167 - src.views.main_window - INFO - User logged out: 1
+2025-03-24 21:55:41,359 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:55:41,361 - src.views.main_window - INFO - Loaded 3 missions from database
+2025-03-24 21:55:48,611 - src.views.main_window - INFO - Deleted mission from database: azdfcvb
+2025-03-24 21:55:48,612 - src.views.main_window - INFO - Deleted mission from UI: azdfcvb
+2025-03-24 21:55:51,081 - src.views.main_window - INFO - Deleted mission from database: Imported Mission 20250324_215514
+2025-03-24 21:55:51,082 - src.views.main_window - INFO - Deleted mission from UI: Imported Mission 20250324_215514
+2025-03-24 21:55:53,310 - src.views.main_window - INFO - Deleted mission from database: tester
+2025-03-24 21:55:53,310 - src.views.main_window - INFO - Deleted mission from UI: tester
+2025-03-24 21:55:55,008 - src.views.main_window - INFO - User logged out: admin
+2025-03-24 21:55:57,388 - src.views.main_window - INFO - User logged in: 1
+2025-03-24 21:55:57,390 - src.views.main_window - INFO - No missions found for user
+2025-03-24 21:55:59,375 - src.views.main_window - INFO - User logged out: 1
+2025-03-24 21:56:00,392 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-24 21:56:09,093 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:56:09,622 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:56:09,642 - src.models.database - INFO - Database tables created
+2025-03-24 21:56:09,660 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-24 21:56:09,674 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:56:09,674 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250324_215609.db
+2025-03-24 21:56:09,675 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250324_215609.db
+2025-03-24 21:56:09,764 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:56:09,938 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:56:17,888 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:56:17,892 - src.views.main_window - INFO - No missions found for user
+2025-03-24 21:56:19,383 - src.views.main_window - INFO - Creating new mission
+2025-03-24 21:56:25,440 - src.views.main_window - INFO - Mission created: chat test
+2025-03-24 21:56:25,462 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:56:38,494 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 21:56:39,619 - src.views.main_window - INFO - Opening mission: chat test
+2025-03-24 21:56:39,620 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:56:43,818 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 21:56:44,628 - src.views.main_window - INFO - Import mission button clicked
+2025-03-24 21:56:44,645 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:56:47,880 - src.views.main_window - INFO - Opening mission: chat test
+2025-03-24 21:56:47,881 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:56:51,819 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-24 21:56:53,691 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 21:56:54,147 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:56:54,163 - src.models.database - INFO - Database tables created
+2025-03-24 21:56:54,180 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-24 21:56:54,191 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 21:56:54,192 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250324_215654.db
+2025-03-24 21:56:54,192 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250324_215654.db
+2025-03-24 21:56:54,270 - src.views.main_window - INFO - Main window initialized
+2025-03-24 21:56:54,371 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 21:57:00,150 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 21:57:00,158 - src.views.main_window - INFO - Loaded 2 missions from database
+2025-03-24 21:57:01,399 - src.views.main_window - INFO - Opening mission: chat test
+2025-03-24 21:57:01,400 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:57:02,068 - src.views.main_window - INFO - Opening mission: Imported Mission 20250324_215644
+2025-03-24 21:57:02,069 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:57:02,826 - src.views.main_window - INFO - Opening mission: chat test
+2025-03-24 21:57:02,826 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:57:03,203 - src.views.main_window - INFO - Opening mission: Imported Mission 20250324_215644
+2025-03-24 21:57:03,204 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 21:57:05,260 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-24 22:07:34,642 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 22:07:35,401 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 22:07:35,421 - src.models.database - INFO - Database tables created
+2025-03-24 22:07:35,450 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-24 22:07:35,464 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 22:07:35,464 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250324_220735.db
+2025-03-24 22:07:35,464 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250324_220735.db
+2025-03-24 22:07:35,631 - src.views.main_window - INFO - Main window initialized
+2025-03-24 22:07:35,790 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 22:07:41,358 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 22:07:41,363 - src.views.main_window - INFO - Loaded 2 missions from database
+2025-03-24 22:07:42,054 - src.views.main_window - INFO - Creating new mission
+2025-03-24 22:07:44,476 - src.views.main_window - INFO - Opening mission: chat test
+2025-03-24 22:07:44,477 - src.views.mission_view - WARNING - Main window reference not set
+2025-03-24 22:07:45,854 - src.views.mission_view - WARNING - Main window reference not set, message not saved to database
+2025-03-24 22:07:48,452 - src.views.mission_view - WARNING - Main window reference not set, message not saved to database
+2025-03-24 22:07:58,206 - src.views.mission_view - WARNING - Main window reference not set, message not saved to database
+2025-03-24 22:08:05,110 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-24 22:12:25,124 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 22:12:25,586 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 22:12:25,601 - src.models.database - INFO - Database tables created
+2025-03-24 22:12:25,619 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-24 22:12:25,627 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 22:12:25,628 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250324_221225.db
+2025-03-24 22:12:25,628 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250324_221225.db
+2025-03-24 22:12:25,741 - src.views.main_window - INFO - Main window initialized
+2025-03-24 22:12:25,845 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 22:12:31,626 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 22:12:31,630 - src.views.main_window - INFO - Loaded 2 missions from database
+2025-03-24 22:12:32,588 - src.views.main_window - INFO - Opening mission: chat test
+2025-03-24 22:12:32,595 - src.views.mission_view - INFO - Found 1 chat messages for mission chat test
+2025-03-24 22:12:32,596 - src.views.mission_view - INFO - Loaded 1 chat messages for mission chat test
+2025-03-24 22:12:34,061 - src.views.mission_view - ERROR - Error sending message: (sqlite3.IntegrityError) NOT NULL constraint failed: chat_messages.message
+[SQL: INSERT INTO chat_messages (mission_id, user_id, timestamp, sender_type, message) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1, None, '2025-03-25 02:12:34.060608', 'system', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-03-24 22:13:12,802 - src.views.main_window - INFO - Opening mission: Imported Mission 20250324_215644
+2025-03-24 22:19:04,017 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 22:19:04,538 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 22:19:04,554 - src.models.database - INFO - Database tables created
+2025-03-24 22:19:04,571 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-24 22:19:04,579 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 22:19:04,579 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250324_221904.db
+2025-03-24 22:19:04,580 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250324_221904.db
+2025-03-24 22:19:04,699 - src.views.main_window - INFO - Main window initialized
+2025-03-24 22:19:04,803 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 22:19:10,523 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 22:19:10,532 - src.views.main_window - INFO - Loaded 2 missions from database
+2025-03-24 22:19:11,523 - src.views.main_window - INFO - Opening mission: Imported Mission 20250324_215644
+2025-03-24 22:19:11,530 - src.views.mission_view - INFO - Found 1 chat messages for mission Imported Mission 20250324_215644
+2025-03-24 22:19:11,535 - src.views.mission_view - INFO - Loaded 1 chat messages for mission Imported Mission 20250324_215644
+2025-03-24 22:19:36,344 - src.views.main_window - INFO - Opening mission: chat test
+2025-03-24 22:19:36,347 - src.views.mission_view - INFO - Found 2 chat messages for mission chat test
+2025-03-24 22:19:36,351 - src.views.mission_view - INFO - Loaded 2 chat messages for mission chat test
+2025-03-24 22:19:37,371 - src.views.main_window - INFO - Opening mission: Imported Mission 20250324_215644
+2025-03-24 22:19:37,373 - src.views.mission_view - INFO - Found 3 chat messages for mission Imported Mission 20250324_215644
+2025-03-24 22:19:37,378 - src.views.mission_view - INFO - Loaded 3 chat messages for mission Imported Mission 20250324_215644
+2025-03-24 22:19:39,051 - src.views.main_window - INFO - Opening mission: chat test
+2025-03-24 22:19:39,053 - src.views.mission_view - INFO - Found 2 chat messages for mission chat test
+2025-03-24 22:19:39,056 - src.views.mission_view - INFO - Loaded 2 chat messages for mission chat test
+2025-03-24 22:19:42,560 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 22:19:43,808 - src.views.main_window - INFO - Creating new mission
+2025-03-24 22:19:56,621 - src.views.main_window - INFO - Mission created: naming cobnvetiob
+2025-03-24 22:19:56,639 - src.views.mission_view - INFO - Found 1 chat messages for mission naming cobnvetiob
+2025-03-24 22:19:56,640 - src.views.mission_view - INFO - Loaded 1 chat messages for mission naming cobnvetiob
+2025-03-24 22:20:22,145 - src.views.main_window - INFO - Opening mission: naming cobnvetiob
+2025-03-24 22:20:22,148 - src.views.mission_view - INFO - Found 1 chat messages for mission naming cobnvetiob
+2025-03-24 22:20:22,151 - src.views.mission_view - INFO - Loaded 1 chat messages for mission naming cobnvetiob
+2025-03-24 22:20:24,311 - src.views.main_window - INFO - Deleted mission from database: naming cobnvetiob
+2025-03-24 22:20:24,312 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 22:20:24,314 - src.views.main_window - INFO - Deleted mission from UI: naming cobnvetiob
+2025-03-24 22:20:24,958 - src.views.main_window - INFO - Opening mission: Imported Mission 20250324_215644
+2025-03-24 22:20:24,961 - src.views.mission_view - INFO - Found 3 chat messages for mission Imported Mission 20250324_215644
+2025-03-24 22:20:24,962 - src.views.mission_view - INFO - Loaded 3 chat messages for mission Imported Mission 20250324_215644
+2025-03-24 22:20:26,871 - src.views.main_window - INFO - Deleted mission from database: Imported Mission 20250324_215644
+2025-03-24 22:20:26,872 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 22:20:26,872 - src.views.main_window - INFO - Deleted mission from UI: Imported Mission 20250324_215644
+2025-03-24 22:20:29,501 - src.views.main_window - INFO - Deleted mission from database: chat test
+2025-03-24 22:20:29,501 - src.views.main_window - INFO - Deleted mission from UI: chat test
+2025-03-24 22:20:40,740 - src.utils.backup_manager - INFO - Automatic backups stopped
