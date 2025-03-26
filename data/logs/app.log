@@ -788,3 +788,440 @@
 2025-03-24 22:20:29,501 - src.views.main_window - INFO - Deleted mission from database: chat test
 2025-03-24 22:20:29,501 - src.views.main_window - INFO - Deleted mission from UI: chat test
 2025-03-24 22:20:40,740 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-24 23:04:33,849 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 23:04:34,868 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 23:04:34,918 - src.models.database - INFO - Database tables created
+2025-03-24 23:04:34,963 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-24 23:04:34,975 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 23:04:34,975 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250324_230434.db
+2025-03-24 23:04:34,976 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250324_230434.db
+2025-03-24 23:04:35,150 - src.views.main_window - INFO - Main window initialized
+2025-03-24 23:04:35,336 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 23:04:42,422 - src.views.main_window - INFO - User logged in: admin
+2025-03-24 23:04:42,428 - src.views.main_window - INFO - No missions found for user
+2025-03-24 23:04:44,760 - src.views.main_window - INFO - Creating new mission
+2025-03-24 23:04:51,194 - src.views.main_window - INFO - Mission created: 123
+2025-03-24 23:04:51,225 - src.views.mission_view - INFO - Found 1 chat messages for mission 123
+2025-03-24 23:04:51,226 - src.views.mission_view - INFO - Loaded 1 chat messages for mission 123
+2025-03-24 23:04:55,624 - src.views.main_window - INFO - Opening mission: 123
+2025-03-24 23:04:55,627 - src.views.mission_view - INFO - Found 1 chat messages for mission 123
+2025-03-24 23:04:55,629 - src.views.mission_view - INFO - Loaded 1 chat messages for mission 123
+2025-03-24 23:05:11,291 - src.views.main_window - INFO - Navigating to home screen
+2025-03-24 23:05:25,587 - src.views.main_window - INFO - Creating new mission
+2025-03-24 23:05:55,551 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-24 23:07:14,047 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-24 23:07:14,608 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 23:07:14,626 - src.models.database - INFO - Database tables created
+2025-03-24 23:07:14,651 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-24 23:07:14,663 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-24 23:07:14,664 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250324_230714.db
+2025-03-24 23:07:14,664 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250324_230714.db
+2025-03-24 23:07:14,665 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250324_214725.db
+2025-03-24 23:07:14,782 - src.views.main_window - INFO - Main window initialized
+2025-03-24 23:07:14,944 - __main__ - INFO - Application initialized and window displayed
+2025-03-24 23:08:13,748 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 15:33:31,636 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 15:33:32,374 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:33:32,400 - src.models.database - INFO - Database tables created
+2025-03-25 15:33:32,417 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 15:33:32,426 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:33:32,426 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_153332.db
+2025-03-25 15:33:32,426 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_153332.db
+2025-03-25 15:33:32,428 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250324_214741.db
+2025-03-25 15:40:50,695 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 15:40:51,123 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:40:51,139 - src.models.database - INFO - Database tables created
+2025-03-25 15:40:51,156 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 15:40:51,167 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:40:51,167 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_154051.db
+2025-03-25 15:40:51,167 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_154051.db
+2025-03-25 15:40:51,169 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250324_214756.db
+2025-03-25 15:43:39,026 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 15:43:39,460 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:43:39,474 - src.models.database - INFO - Database tables created
+2025-03-25 15:43:39,489 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 15:43:39,500 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:43:39,500 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_154339.db
+2025-03-25 15:43:39,500 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_154339.db
+2025-03-25 15:43:39,501 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250324_215449.db
+2025-03-25 15:47:44,110 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 15:47:44,631 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:47:44,647 - src.models.database - INFO - Database tables created
+2025-03-25 15:47:44,669 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 15:47:44,681 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:47:44,681 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_154744.db
+2025-03-25 15:47:44,681 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_154744.db
+2025-03-25 15:47:44,682 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250324_215609.db
+2025-03-25 15:54:31,203 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 15:54:31,638 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:54:31,652 - src.models.database - INFO - Database tables created
+2025-03-25 15:54:31,668 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 15:54:31,680 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:54:31,680 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_155431.db
+2025-03-25 15:54:31,681 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_155431.db
+2025-03-25 15:54:31,682 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250324_215654.db
+2025-03-25 15:54:33,204 - src.views.main_window - INFO - Main window initialized
+2025-03-25 15:54:33,316 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 15:54:42,693 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 15:54:42,698 - src.views.main_window - INFO - Loaded 1 missions from database
+2025-03-25 15:54:44,579 - src.views.main_window - INFO - Opening mission: 123
+2025-03-25 15:54:44,588 - src.views.mission_view - INFO - Found 1 chat messages for mission 123
+2025-03-25 15:54:44,590 - src.views.mission_view - INFO - Loaded 1 chat messages for mission 123
+2025-03-25 15:54:47,956 - src.views.main_window - INFO - Navigating to home screen
+2025-03-25 15:54:51,475 - src.views.main_window - INFO - Creating new mission
+2025-03-25 15:54:53,235 - src.views.main_window - INFO - Import mission button clicked
+2025-03-25 15:54:53,250 - src.views.mission_view - INFO - Found 1 chat messages for mission Imported Mission 20250325_155453
+2025-03-25 15:54:53,251 - src.views.mission_view - INFO - Loaded 1 chat messages for mission Imported Mission 20250325_155453
+2025-03-25 15:54:54,230 - src.views.main_window - INFO - Navigating to home screen
+2025-03-25 15:54:55,409 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 15:56:43,969 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 15:56:44,427 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:56:44,444 - src.models.database - INFO - Database tables created
+2025-03-25 15:56:44,460 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 15:56:44,468 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:56:44,469 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_155644.db
+2025-03-25 15:56:44,469 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_155644.db
+2025-03-25 15:56:44,470 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250324_220735.db
+2025-03-25 15:56:45,993 - src.views.main_window - INFO - Main window initialized
+2025-03-25 15:56:46,108 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 15:56:51,788 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 15:56:51,792 - src.views.main_window - INFO - Loaded 2 missions from database
+2025-03-25 15:56:55,130 - src.views.main_window - INFO - Opening mission: Imported Mission 20250325_155453
+2025-03-25 15:56:55,133 - src.views.mission_view - INFO - Found 1 chat messages for mission Imported Mission 20250325_155453
+2025-03-25 15:56:55,134 - src.views.mission_view - INFO - Loaded 1 chat messages for mission Imported Mission 20250325_155453
+2025-03-25 15:56:56,345 - src.views.main_window - INFO - Opening mission: 123
+2025-03-25 15:56:56,347 - src.views.mission_view - INFO - Found 1 chat messages for mission 123
+2025-03-25 15:56:56,349 - src.views.mission_view - INFO - Loaded 1 chat messages for mission 123
+2025-03-25 15:57:00,855 - src.views.main_window - INFO - Opening mission: Imported Mission 20250325_155453
+2025-03-25 15:57:00,857 - src.views.mission_view - INFO - Found 1 chat messages for mission Imported Mission 20250325_155453
+2025-03-25 15:57:00,858 - src.views.mission_view - INFO - Loaded 1 chat messages for mission Imported Mission 20250325_155453
+2025-03-25 15:57:04,653 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 15:59:31,875 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 15:59:32,293 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:59:32,307 - src.models.database - INFO - Database tables created
+2025-03-25 15:59:32,323 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 15:59:32,330 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:59:32,330 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_155932.db
+2025-03-25 15:59:32,330 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_155932.db
+2025-03-25 15:59:32,332 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250324_221225.db
+2025-03-25 15:59:33,758 - src.views.main_window - INFO - Main window initialized
+2025-03-25 15:59:33,862 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 15:59:39,168 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 15:59:39,172 - src.views.main_window - INFO - Loaded 2 missions from database
+2025-03-25 15:59:40,192 - src.views.main_window - INFO - Creating new mission
+2025-03-25 15:59:41,728 - src.views.main_window - INFO - Import mission button clicked
+2025-03-25 15:59:41,745 - src.views.mission_view - INFO - Found 1 chat messages for mission Imported Mission 20250325_155941
+2025-03-25 15:59:41,745 - src.views.mission_view - INFO - Loaded 1 chat messages for mission Imported Mission 20250325_155941
+2025-03-25 15:59:42,890 - src.views.main_window - INFO - Navigating to home screen
+2025-03-25 15:59:54,388 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 15:59:54,802 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:59:54,817 - src.models.database - INFO - Database tables created
+2025-03-25 15:59:54,833 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 15:59:54,844 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 15:59:54,845 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_155954.db
+2025-03-25 15:59:54,845 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_155954.db
+2025-03-25 15:59:54,847 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250324_221904.db
+2025-03-25 15:59:56,343 - src.views.main_window - INFO - Main window initialized
+2025-03-25 15:59:56,454 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 16:00:02,202 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 16:00:02,206 - src.views.main_window - INFO - Loaded 3 missions from database
+2025-03-25 16:00:06,437 - src.views.main_window - INFO - Creating new mission
+2025-03-25 16:00:10,831 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 16:01:11,309 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:01:11,756 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:01:11,770 - src.models.database - INFO - Database tables created
+2025-03-25 16:01:11,785 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:01:11,792 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:01:11,792 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_160111.db
+2025-03-25 16:01:11,792 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_160111.db
+2025-03-25 16:01:11,794 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250324_230434.db
+2025-03-25 16:01:13,243 - src.views.main_window - INFO - Main window initialized
+2025-03-25 16:01:13,342 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 16:01:19,602 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 16:01:19,606 - src.views.main_window - INFO - Loaded 3 missions from database
+2025-03-25 16:03:02,590 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:03:03,020 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:03:03,037 - src.models.database - INFO - Database tables created
+2025-03-25 16:03:03,052 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:03:03,064 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:03:03,064 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_160303.db
+2025-03-25 16:03:03,065 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_160303.db
+2025-03-25 16:03:03,066 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250324_230714.db
+2025-03-25 16:03:04,508 - src.views.main_window - INFO - Main window initialized
+2025-03-25 16:03:04,608 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 16:03:10,258 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 16:03:10,263 - src.views.main_window - INFO - Loaded 3 missions from database
+2025-03-25 16:03:18,212 - src.views.main_window - INFO - Import mission button clicked
+2025-03-25 16:03:18,232 - src.views.mission_view - INFO - Found 1 chat messages for mission Imported Mission 20250325_160318
+2025-03-25 16:03:18,233 - src.views.mission_view - INFO - Loaded 1 chat messages for mission Imported Mission 20250325_160318
+2025-03-25 16:03:19,537 - src.views.main_window - INFO - Navigating to home screen
+2025-03-25 16:03:20,423 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 16:08:36,715 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:08:37,170 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:08:37,186 - src.models.database - INFO - Database tables created
+2025-03-25 16:08:37,202 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:08:37,214 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:08:37,214 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_160837.db
+2025-03-25 16:08:37,214 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_160837.db
+2025-03-25 16:08:37,216 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_153332.db
+2025-03-25 16:08:38,774 - src.views.main_window - INFO - Main window initialized
+2025-03-25 16:08:38,871 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 16:08:44,702 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 16:08:44,706 - src.views.main_window - INFO - Loaded 4 missions from database
+2025-03-25 16:08:53,598 - src.views.main_window - INFO - Import mission button clicked
+2025-03-25 16:08:53,619 - src.views.mission_view - INFO - Found 1 chat messages for mission Imported Mission 20250325_160853
+2025-03-25 16:08:53,620 - src.views.mission_view - INFO - Loaded 1 chat messages for mission Imported Mission 20250325_160853
+2025-03-25 16:08:55,465 - src.views.main_window - INFO - Navigating to home screen
+2025-03-25 16:08:56,158 - src.views.main_window - INFO - Creating new mission
+2025-03-25 16:09:11,124 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 16:16:42,705 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:16:43,140 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:16:43,156 - src.models.database - INFO - Database tables created
+2025-03-25 16:16:43,173 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:16:43,180 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:16:43,180 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_161643.db
+2025-03-25 16:16:43,181 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_161643.db
+2025-03-25 16:16:43,182 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_154051.db
+2025-03-25 16:16:44,754 - src.views.main_window - INFO - Main window initialized
+2025-03-25 16:16:44,859 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 16:16:50,675 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 16:16:50,680 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 16:16:54,691 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 16:18:26,903 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:18:27,322 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:18:27,337 - src.models.database - INFO - Database tables created
+2025-03-25 16:18:27,352 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:18:27,364 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:18:27,364 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_161827.db
+2025-03-25 16:18:27,365 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_161827.db
+2025-03-25 16:18:27,366 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_154339.db
+2025-03-25 16:21:18,625 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:21:19,048 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:21:19,062 - src.models.database - INFO - Database tables created
+2025-03-25 16:21:19,077 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:21:19,085 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:21:19,085 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_162119.db
+2025-03-25 16:21:19,085 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_162119.db
+2025-03-25 16:21:19,086 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_154744.db
+2025-03-25 16:21:22,087 - src.views.main_window - INFO - Main window initialized
+2025-03-25 16:21:22,183 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 16:22:09,307 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 16:22:09,313 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 16:22:17,695 - src.drone.drone_connection - INFO - Connecting to drone on tcp:127.0.0.1:5760...
+2025-03-25 16:22:25,804 - src.drone.drone_connection - ERROR - Failed to connect to drone: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-25 16:22:30,440 - src.drone.drone_simulator - INFO - Starting drone simulator: sim_vehicle.py -v ArduCopter --location 40.071374,-105.229195,1585,0 --no-mavproxy
+2025-03-25 16:22:30,449 - src.drone.drone_simulator - ERROR - Failed to start simulator: [WinError 2] The system cannot find the file specified
+2025-03-25 16:22:40,606 - src.views.main_window - INFO - Opening mission: 123
+2025-03-25 16:22:40,609 - src.views.mission_view - INFO - Found 1 chat messages for mission 123
+2025-03-25 16:22:40,610 - src.views.mission_view - INFO - Loaded 1 chat messages for mission 123
+2025-03-25 16:22:41,338 - src.views.main_window - INFO - Navigating to home screen
+2025-03-25 16:23:03,873 - src.views.main_window - INFO - Opening mission: 123
+2025-03-25 16:23:03,875 - src.views.mission_view - INFO - Found 1 chat messages for mission 123
+2025-03-25 16:23:03,875 - src.views.mission_view - INFO - Loaded 1 chat messages for mission 123
+2025-03-25 16:23:04,843 - src.views.main_window - INFO - Navigating to home screen
+2025-03-25 16:23:05,733 - src.views.main_window - INFO - Opening mission: 123
+2025-03-25 16:23:05,735 - src.views.mission_view - INFO - Found 1 chat messages for mission 123
+2025-03-25 16:23:05,736 - src.views.mission_view - INFO - Loaded 1 chat messages for mission 123
+2025-03-25 16:23:07,292 - src.views.main_window - INFO - Opening mission: Imported Mission 20250325_155453
+2025-03-25 16:23:07,294 - src.views.mission_view - INFO - Found 1 chat messages for mission Imported Mission 20250325_155453
+2025-03-25 16:23:07,294 - src.views.mission_view - INFO - Loaded 1 chat messages for mission Imported Mission 20250325_155453
+2025-03-25 16:23:09,768 - src.views.main_window - INFO - Navigating to home screen
+2025-03-25 16:23:12,758 - src.views.main_window - INFO - Opening mission: 123
+2025-03-25 16:23:12,761 - src.views.mission_view - INFO - Found 1 chat messages for mission 123
+2025-03-25 16:23:12,762 - src.views.mission_view - INFO - Loaded 1 chat messages for mission 123
+2025-03-25 16:23:13,342 - src.views.main_window - INFO - Navigating to home screen
+2025-03-25 16:23:28,428 - src.views.main_window - INFO - Opening mission: 123
+2025-03-25 16:23:28,430 - src.views.mission_view - INFO - Found 1 chat messages for mission 123
+2025-03-25 16:23:28,431 - src.views.mission_view - INFO - Loaded 1 chat messages for mission 123
+2025-03-25 16:23:29,265 - src.views.main_window - INFO - Navigating to home screen
+2025-03-25 16:23:53,424 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 16:29:22,216 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:29:23,203 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:29:23,219 - src.models.database - INFO - Database tables created
+2025-03-25 16:29:23,234 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:29:23,242 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:29:23,242 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_162923.db
+2025-03-25 16:29:23,242 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_162923.db
+2025-03-25 16:29:23,244 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_155431.db
+2025-03-25 16:29:28,607 - src.views.main_window - INFO - Main window initialized
+2025-03-25 16:29:28,700 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 16:29:41,477 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 16:29:41,481 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 16:29:45,794 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 16:35:56,810 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:35:57,240 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:35:57,257 - src.models.database - INFO - Database tables created
+2025-03-25 16:35:57,273 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:35:57,285 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:35:57,286 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_163557.db
+2025-03-25 16:35:57,286 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_163557.db
+2025-03-25 16:35:57,287 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_155644.db
+2025-03-25 16:35:59,428 - src.views.main_window - INFO - Main window initialized
+2025-03-25 16:35:59,520 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 16:36:00,879 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 16:39:31,062 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:39:31,487 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:39:31,500 - src.models.database - INFO - Database tables created
+2025-03-25 16:39:31,516 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:39:31,523 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:39:31,523 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_163931.db
+2025-03-25 16:39:31,523 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_163931.db
+2025-03-25 16:39:31,525 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_155932.db
+2025-03-25 16:39:33,676 - src.views.main_window - INFO - Main window initialized
+2025-03-25 16:39:33,769 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 16:39:41,660 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 16:39:41,665 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 16:40:09,586 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 16:40:45,399 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:40:45,838 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:40:45,853 - src.models.database - INFO - Database tables created
+2025-03-25 16:40:45,870 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:40:45,881 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:40:45,881 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_164045.db
+2025-03-25 16:40:45,881 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_164045.db
+2025-03-25 16:40:45,883 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_155954.db
+2025-03-25 16:40:48,035 - src.views.main_window - INFO - Main window initialized
+2025-03-25 16:40:48,137 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 16:40:59,668 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 16:40:59,673 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 16:41:03,401 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 16:49:11,969 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:49:12,414 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:49:12,429 - src.models.database - INFO - Database tables created
+2025-03-25 16:49:12,445 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:49:12,457 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:49:12,460 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_164912.db
+2025-03-25 16:49:12,462 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_164912.db
+2025-03-25 16:49:12,466 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_160111.db
+2025-03-25 16:50:59,695 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:51:00,148 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:51:00,162 - src.models.database - INFO - Database tables created
+2025-03-25 16:51:00,177 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:51:00,184 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:51:00,185 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_165100.db
+2025-03-25 16:51:00,185 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_165100.db
+2025-03-25 16:51:00,186 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_160303.db
+2025-03-25 16:51:02,216 - src.views.main_window - INFO - Main window initialized
+2025-03-25 16:51:02,313 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 16:51:09,974 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 16:51:09,979 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 16:51:12,405 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 16:59:36,349 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 16:59:36,798 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:59:36,813 - src.models.database - INFO - Database tables created
+2025-03-25 16:59:36,830 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 16:59:36,836 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 16:59:36,836 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_165936.db
+2025-03-25 16:59:36,837 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_165936.db
+2025-03-25 16:59:36,838 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_160837.db
+2025-03-25 17:05:38,331 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 17:05:38,746 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:05:38,760 - src.models.database - INFO - Database tables created
+2025-03-25 17:05:38,776 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 17:05:38,783 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:05:38,783 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_170538.db
+2025-03-25 17:05:38,784 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_170538.db
+2025-03-25 17:05:38,785 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_161643.db
+2025-03-25 17:05:40,376 - src.views.main_window - INFO - Main window initialized
+2025-03-25 17:05:40,476 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 17:05:52,191 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 17:05:52,196 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 17:06:27,456 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 17:09:10,688 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 17:09:11,156 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:09:11,172 - src.models.database - INFO - Database tables created
+2025-03-25 17:09:11,187 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 17:09:11,195 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:09:11,195 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_170911.db
+2025-03-25 17:09:11,195 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_170911.db
+2025-03-25 17:09:11,197 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_161827.db
+2025-03-25 17:09:12,823 - src.views.main_window - INFO - Main window initialized
+2025-03-25 17:09:12,926 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 17:09:18,740 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 17:09:18,745 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 17:09:26,821 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 17:21:48,544 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 17:21:48,989 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:21:49,006 - src.models.database - INFO - Database tables created
+2025-03-25 17:21:49,021 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 17:21:49,029 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:21:49,030 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_172149.db
+2025-03-25 17:21:49,030 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_172149.db
+2025-03-25 17:21:49,031 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_162119.db
+2025-03-25 17:23:15,120 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 17:23:15,565 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:23:15,580 - src.models.database - INFO - Database tables created
+2025-03-25 17:23:15,596 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 17:23:15,604 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:23:15,604 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_172315.db
+2025-03-25 17:23:15,604 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_172315.db
+2025-03-25 17:23:15,606 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_162923.db
+2025-03-25 17:24:25,906 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 17:24:26,392 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:24:26,409 - src.models.database - INFO - Database tables created
+2025-03-25 17:24:26,425 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 17:24:26,432 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:24:26,432 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_172426.db
+2025-03-25 17:24:26,432 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_172426.db
+2025-03-25 17:24:26,433 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_163557.db
+2025-03-25 17:25:52,989 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 17:25:53,404 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:25:53,417 - src.models.database - INFO - Database tables created
+2025-03-25 17:25:53,432 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 17:25:53,444 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:25:53,444 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_172553.db
+2025-03-25 17:25:53,444 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_172553.db
+2025-03-25 17:25:53,446 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_163931.db
+2025-03-25 17:25:56,035 - src.views.main_window - INFO - Main window initialized
+2025-03-25 17:25:56,131 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 17:26:05,834 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 17:26:05,838 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 17:26:14,494 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 17:28:18,867 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 17:28:19,312 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:28:19,330 - src.models.database - INFO - Database tables created
+2025-03-25 17:28:19,348 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 17:28:19,357 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:28:19,358 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_172819.db
+2025-03-25 17:28:19,358 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_172819.db
+2025-03-25 17:28:19,359 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_164045.db
+2025-03-25 17:28:21,665 - src.views.main_window - INFO - Main window initialized
+2025-03-25 17:28:21,755 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 17:28:29,549 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 17:28:29,555 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 17:28:32,180 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 17:30:30,663 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 17:30:31,120 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:30:31,136 - src.models.database - INFO - Database tables created
+2025-03-25 17:30:31,151 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 17:30:31,162 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:30:31,163 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_173031.db
+2025-03-25 17:30:31,163 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_173031.db
+2025-03-25 17:30:31,164 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_164912.db
+2025-03-25 17:30:33,327 - src.views.main_window - INFO - Main window initialized
+2025-03-25 17:30:33,411 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 17:30:46,752 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 17:30:46,757 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 17:30:53,804 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 17:33:04,147 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 17:33:04,623 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:33:04,638 - src.models.database - INFO - Database tables created
+2025-03-25 17:33:04,653 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 17:33:04,664 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 17:33:04,664 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_173304.db
+2025-03-25 17:33:04,665 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_173304.db
+2025-03-25 17:33:04,666 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_165100.db
+2025-03-25 17:33:06,911 - src.views.main_window - INFO - Main window initialized
+2025-03-25 17:33:07,000 - __main__ - INFO - Application initialized and window displayed
+2025-03-25 17:33:16,372 - repositories.user_repository - WARNING - Authentication failed: Invalid password for user 'admin'
+2025-03-25 17:33:22,226 - src.views.main_window - INFO - User logged in: admin
+2025-03-25 17:33:22,231 - src.views.main_window - INFO - Loaded 5 missions from database
+2025-03-25 17:33:25,936 - src.utils.backup_manager - INFO - Automatic backups stopped
+2025-03-25 20:36:35,247 - __main__ - INFO - Starting Drone Search & Recovery Application
+2025-03-25 20:36:36,100 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 20:36:36,124 - src.models.database - INFO - Database tables created
+2025-03-25 20:36:36,141 - src.utils.backup_manager - INFO - Automatic backups scheduled every 24 hours
+2025-03-25 20:36:36,150 - src.models.database - INFO - Database engine created at data/drone_search.db
+2025-03-25 20:36:36,150 - src.models.database - INFO - Database backed up to data/backup\drone_search_20250325_203636.db
+2025-03-25 20:36:36,150 - src.utils.backup_manager - INFO - Automatic backup created at data/backup\drone_search_20250325_203636.db
+2025-03-25 20:36:36,153 - src.utils.backup_manager - INFO - Removed old backup: data/backup\drone_search_20250325_165936.db

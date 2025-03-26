@@ -13,6 +13,8 @@ from datetime import datetime
 from src.views.mission_planner import MissionPlannerWidget
 from src.views.mission_view import MissionViewWidget
 from src.views.login_view import LoginWidget
+from src.views.map_view import MapViewWidget
+from src.views.drone_status_view import DroneStatusWidget
 from src.models.database import Database
 from src.models.user import User
 from src.repositories.user_repository import UserRepository
@@ -77,6 +79,8 @@ class MainWindow(QMainWindow):
         self.setup_home_screen()
         self.setup_mission_planner_screen()
         self.setup_mission_screen()
+        self.setup_map_view_screen()
+        self.setup_drone_status_screen()
         
         # Start with the home screen
         self.content_area.setCurrentIndex(0)
@@ -336,13 +340,57 @@ class MainWindow(QMainWindow):
             }
         """)
         import_mission_btn.clicked.connect(self.import_mission)
+
+        # Add Drone Status button
+        drone_status_btn = QPushButton("Drone Status")
+        drone_status_btn.setObjectName("new_mission_button")
+        drone_status_btn.setFixedSize(200, 60)
+        drone_status_btn.setStyleSheet("""
+            QPushButton {
+                background-color: #4A90E2;
+                color: white;
+                border: none;
+                padding: 15px 30px;
+                border-radius: 8px;
+                font-size: 16px;
+                font-weight: bold;
+            }
+            QPushButton:hover {
+                background-color: #3A80D2;
+            }
+        """)
+        drone_status_btn.clicked.connect(self.show_drone_status)
         
+        # Add map view button
+        map_view_btn = QPushButton("Map View")
+        map_view_btn.setObjectName("new_mission_button")
+        map_view_btn.setFixedSize(200, 60)
+        map_view_btn.setStyleSheet("""
+            QPushButton {
+                background-color: #4A90E2;
+                color: white;
+                border: none;
+                padding: 15px 30px;
+                border-radius: 8px;
+                font-size: 16px;
+                font-weight: bold;
+            }
+            QPushButton:hover {
+                background-color: #3A80D2;
+            }
+        """)
+        map_view_btn.clicked.connect(self.show_map_view)
+
         # Center the buttons horizontally
         button_layout = QHBoxLayout()
         button_layout.addStretch()
         button_layout.addWidget(new_mission_btn)
         button_layout.addSpacing(20)  # Add space between buttons
         button_layout.addWidget(import_mission_btn)
+        button_layout.addSpacing(20)
+        button_layout.addWidget(drone_status_btn)
+        button_layout.addSpacing(20)
+        button_layout.addWidget(map_view_btn)
         button_layout.addStretch()
         
         # Add widgets to layout
@@ -508,12 +556,16 @@ class MainWindow(QMainWindow):
         self.HOME_SCREEN = 1
         self.MISSION_PLANNER_SCREEN = 2
         self.MISSION_VIEW_SCREEN = 3
+        self.MAP_VIEW_SCREEN = 4  
+        self.DRONE_STATUS_SCREEN = 5
             
         # Add login screen
         self.setup_login_screen()
         self.setup_home_screen()
         self.setup_mission_planner_screen()
         self.setup_mission_screen()
+        self.setup_map_view_screen()
+        self.setup_drone_status_screen()
         
         # Start with the login screen
         self.content_area.setCurrentIndex(self.LOGIN_SCREEN)
@@ -691,3 +743,21 @@ class MainWindow(QMainWindow):
             logger.info(f"Loaded {len(missions)} missions from database")
         else:
             logger.info("No missions found for user")
+
+    def setup_drone_status_screen(self):
+        """Set up the drone status screen"""
+        self.drone_status_widget = DroneStatusWidget()
+        self.content_area.addWidget(self.drone_status_widget)
+
+    def show_drone_status(self):
+        """Show the drone status screen"""
+        self.content_area.setCurrentIndex(self.DRONE_STATUS_SCREEN)  # Define this index constant
+
+    def setup_map_view_screen(self):
+        """Set up the map view screen"""
+        self.map_view = MapViewWidget(self)
+        self.content_area.addWidget(self.map_view)
+
+    def show_map_view(self):
+        """Show the map view screen"""
+        self.content_area.setCurrentIndex(self.MAP_VIEW_SCREEN)
