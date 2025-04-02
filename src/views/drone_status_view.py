@@ -14,11 +14,12 @@ logger = logging.getLogger(__name__)
 class DroneStatusWidget(QWidget):
     """Widget for drone status display and control"""
     
-    def __init__(self):
+    def __init__(self, main_window=None):
         super().__init__()
         self.drone_controller = DroneController()
         self.drone_simulator = DroneSimulator()
         self.simulator_running = False
+        self.main_window = main_window
         
         self.setup_ui()
         
@@ -36,6 +37,11 @@ class DroneStatusWidget(QWidget):
         connection_frame.setFrameShape(QFrame.Shape.StyledPanel)
         connection_frame.setStyleSheet("background-color: #F0F0F0; border-radius: 5px; padding: 10px;")
         connection_layout = QVBoxLayout(connection_frame)
+
+        self.home_button = QPushButton("← Home")
+        self.home_button.setStyleSheet("font-weight: bold; background-color: #E5E7EB;")
+        self.home_button.clicked.connect(lambda: self.main_window.go_to_home())
+        connection_layout.addWidget(self.home_button)
         
         # Connection title
         connection_title = QLabel("Drone Connection")

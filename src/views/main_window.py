@@ -746,7 +746,7 @@ class MainWindow(QMainWindow):
 
     def setup_drone_status_screen(self):
         """Set up the drone status screen"""
-        self.drone_status_widget = DroneStatusWidget()
+        self.drone_status_widget = DroneStatusWidget(self)
         self.content_area.addWidget(self.drone_status_widget)
 
     def show_drone_status(self):
